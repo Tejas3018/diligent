@@ -1,4 +1,4 @@
-This project fulfills the assessment requirements using Cursor-style workflows 
+This project fulfills the assessment requirements using Cursor ide
 
 1. Synthetic Data Generation
 Run:
