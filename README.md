@@ -52,6 +52,12 @@ Produces:
 ✔ Revenue by Product Category
 (category, revenue, orders_count, avg_rating)
 
+## Output Preview
+
+Here is the SQL join result:
+
+![Output Screenshot](output.png)
+
 4. Tech Stack
 Python (pandas, faker, sqlite3)
 
