@@ -81,6 +81,7 @@ python generate_data.py
 python ingest_to_sqlite.py
 
 5. Run SQL queries
+
 Method A — CMD / Linux / macOS:
 sqlite3 ecom.db < queries.sql
 
