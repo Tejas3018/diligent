@@ -1,4 +1,5 @@
- **Diligent Assessment**
+DILIGENT ASSESMENT
+
 This project implements the complete workflow required for the Diligent hiring assessment using an AI-assisted SDLC approach.
 It includes generating synthetic e-commerce datasets, ingesting them into a SQLite database, and performing SQL joins to produce meaningful analytical outputs.
 
